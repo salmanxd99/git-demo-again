@@ -8,4 +8,4 @@ git branch
 step 2 
 create branch (git checkout -b task/development-branch)
 
-if branch already exist (git checkout <branch name>)
+if branch already exist (git checkout <branch namegit s>)
